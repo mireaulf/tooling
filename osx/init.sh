@@ -14,6 +14,9 @@ else
     chsh -s /usr/local/bin/zsh
 fi
 
+# common
+brew install jq
+
 # python
 brew install pyenv poetry 
 
